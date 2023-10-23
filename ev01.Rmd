@@ -1,0 +1,197 @@
+---
+title: "Evidencia 1 | Análisis inicial"
+author: "Dael Chávez Ferreyra - A01771963"
+date: "07/05/2023"
+output: pdf_document
+chunk_output_type: inline
+editor_options: 
+  chunk_output_type: inline
+---
+
+## Parte 1 | Investigación
+
+1. ¿Cuál es la situación actual de COVID-19 a nivel mundial, en México, en tu estado de origen y en tu municipio, alcaldía o colonia?
+
+A nivel mundial han habido en los últimos 28 días 4,035,254 de casos de COVID-19 y 28,018 pérdidas humanas por COVID-19. Cada vez las cifras se han reducido paulatinamente alrededor del mundo.
+
+La situación actual en México en cuestión del COVID-19, es que en los últimos 28 días se han suscitado 82, 596 casos y se registraron 608 muertes a fecha de hoy 06 de mayo de 2023. En el Estado de México han sido 10,199 casos y 93 muertes, también en los últimos 28 días. Y según el reporte de la Secretaría de Salud del Estado de México, el municipio de Toluca tiene 29,943 casos positivos y 2,743 defunciones por COVID-19 hasta el 6 de mayo de 2023.
+
+2. ¿Cuál fue la primera variante del virus que se propagó a todo el mundo?
+
+La primera variable del virus que se propagó a todo el mundo fue la D614G, también conocida como Alfa, Está variante fue registrada por primera vez en Europa en septiembre de 2020 y desplazó al linaje de Wuhan en el Viejo continente entre febrero y marzo de 2020 y causó la primera ola de casos en junio.
+
+3. ¿Cuáles son las otras variantes del virus que existen en otras regiones del mundo?
+
+Según los resultados de búsqueda, existen varias variantes del virus SARS-CoV-2 que causan la COVID-19 y que se han ido presentando alrededor del mundo. Algunas de estas variantes son más contagiosas o resistentes a los tratamientos o vacunas que otras.
+
+Dentro de estas variantes hay cuatro que se consideran variantes de preocupación por sus características y comportamiento: Alfa, Beta, Gamma y Delta. Estas variantes se detectaron inicialmente en Reino Unido, Sudáfrica, Brasil e India, respectivamente, pero se han extendido a otras regiones del mundo.
+
+Además, hay otras variantes que se consideran variantes de interés porque tienen mutaciones que podrían afectar la transmisión o la gravedad de la enfermedad, pero aún no se ha confirmado su impacto. Algunas de estas variantes son Eta, Theta, Iota y Kappa. Estas variantes se detectaron inicialmente en Estados Unidos, Filipinas, Estados Unidos e India, respectivamente, pero también se han reportado en otros países.
+
+Recientemente, se ha identificado una nueva variante llamada Ómicron que tiene varias mutaciones que podrían aumentar su capacidad de transmisión o evadir la respuesta inmunitaria. Esta variante se detectó por primera vez en Sudáfrica a finales de noviembre de 2021 y se ha reportado en más de 70 países. La Organización Mundial de la Salud (OMS) la ha clasificado como una variante de preocupación y se están realizando estudios para conocer más sobre sus características y efectos.
+
+Es importante seguir las medidas de prevención recomendadas por las autoridades sanitarias para evitar el contagio y la propagación de las variantes del virus, así como completar el esquema de vacunación si está disponible.
+
+
+4. ¿Cómo buscarías información de la variante del virus en tu país? 
+
+Si se desea obtener información precisa y confiable sobre alguna variante del Covid-19 en México, es recomendable consultar páginas seguras y oficiales en internet que proporcionen datos veraces en lugar de falsedades. Algunos ejemplos de estas páginas son la Secretaría de Salud, el Centro Nacional de Prevención de Desastres (CENAPRED), el Instituto Nacional de Enfermedades Respiratorias (INER) y la Organización Mundial de la Salud (OMS).
+
+5. Imagina que te encuentras en una situación similar a la de Li Wenliang, médico chino que intentó alertar sobre el brote de coronavirus en su país, pero fue detenido por las autoridades y obligado a retractarse, ¿qué harías en su caso? Selecciona un inciso:a) Lo reportas al centro de investigación o la universidad. b) Lo reportas a la prensa. c) Guardas la información. Elige y justifica tu respuesta. 
+
+Yo elegiría la opción b) Lo reportas a la prensa. Creo que es importante informar a la población sobre los riesgos de una posible pandemia y las medidas de prevención que se deben tomar. También creo que es una forma de presionar a las autoridades para que actúen con responsabilidad y transparencia. Entiendo que esta opción implica un riesgo personal y profesional, pero creo que vale la pena asumirlo por el bien común.
+
+
+
+REFERENCIAS
+
+Gobierno del Estado de México. (s.f.). COVID-19. Recuperado el 6 de mayo de 2023, de https://www.edomex.gob.mx/covid-19
+
+Casos positivos y defunciones a COVID-19 por municipio | Secretaría de Salud. (s. f.). https://salud.edomex.gob.mx/salud/covid19_municipio
+
+Reyes, F. (2021, 14 agosto). Una por una, cuáles son las variantes del coronavirus desde la versión original de Wuhan. infobae. https://www.infobae.com/america/ciencia-america/2021/08/14/una-por-una-cuales-son-las-variantes-del-coronavirus-desde-la-version-original-de-wuhan/
+
+BBC News Mundo. (2021, 17 enero). Cómo fue identificado el primer virus de la historia (y qué pasó después de su descubrimiento). BBC News Mundo. https://www.bbc.com/mundo/noticias-55597065
+
+Nuevas variantes del Coronavirus: lo que debe saber. (2022, 16 junio). Johns Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/nuevas-variantes-del-coronavirus-lo-que-debe-saber
+
+De Salud, S. (s. f.). VARIANTES DEL VIRUS SARS-CoV2. gob.mx. https://www.gob.mx/salud/articulos/variantes-del-virus-sars-cov2?idiom=es
+
+Enfermedad por coronavirus (COVID-19): variantes del SARS-COV-2. (s. f.). https://www.who.int/es/news-room/questions-and-answers/item/coronavirus-disease-%28covid-19%29-variants-of-sars-cov-2
+
+Enfermedad del coronavirus 2019 (COVID-19). (2020, 11 febrero). Centers for Disease Control and Prevention. https://espanol.cdc.gov/coronavirus/2019-ncov/variants/index.html
+
+Secretaría de Salud. (s.f.). Variantes COVID-19. Recuperado el 6 de mayo de 2023, de https://coronavirus.gob.mx/variantes-covid-19/
+
+
+## Parte 2 | Código
+
+```{R}
+library(seqinr)
+library(stringr)
+library(ggplot2)
+getwd()
+```
+
+```{R}
+setwd("C:/Users/daeld/OneDrive/Documentos/Programas")
+```
+
+```{R}
+alpha <- read.fasta("sequence_alpha.fasta")
+beta <- read.fasta("sequence_beta.fasta")
+delta <- read.fasta("sequence_delta.fasta")
+gamma <- read.fasta("sequence_gamma.fasta")
+```
+
+```{R}
+alphalen <- length(alpha[[1]])
+betalen <- length(beta[[1]])
+deltalen <- length(delta[[1]])
+gammalen <- length(gamma[[1]])
+```
+
+### Longitud de las secuencias de cada variante.
+
+```{R}
+print(paste0("Variante Alpha: ", alphalen))
+print(paste0("Variante Beta: ", betalen))
+print(paste0("Variante Delta: ", deltalen))
+print(paste0("Variante Gamma: ", gammalen))
+```
+
+```{R}
+alphadf <- as.data.frame(count(alpha[[1]],1))
+colnames(alphadf) <- c("Nucleotidos", "Alpha")
+
+betadf <- as.data.frame(count(beta[[1]],1))
+colnames(betadf) <- c("Nucleotidos", "Beta")
+
+deltadf <- as.data.frame(count(delta[[1]],1))
+colnames(deltadf) <- c("Nucleotidos", "Delta")
+
+gammadf <- as.data.frame(count(gamma[[1]],1))
+colnames(gammadf) <- c("Nucleotidos", "Gamma")
+
+df1 <- merge(alphadf, betadf)
+df2 <- merge(df1, deltadf)
+df3 <- merge(df2, gammadf)
+```
+
+```{R}
+cantidad1 <- alphadf[,2]
+cantidad2 <- betadf[,2]
+cantidad3 <- deltadf[,2]
+cantidad4 <- gammadf[,2]
+
+grafica <- data.frame(
+  "Nucleótidos" = c("A","C", "G", "T"),
+  "Variantes" = c(rep("Alpha", 4), rep("Beta", 4), rep("Delta", 4), rep("Gamma", 4)),
+  "Cantidad" = c(cantidad1, cantidad2, cantidad3, cantidad4)
+)
+```
+
+### Gráfica de comparación de las bases de ADN de cada variante. 
+
+```{R}
+graficar <- ggplot(grafica, aes(x = Nucleótidos, y = Cantidad, fill=Variantes)) + geom_bar(position="dodge", stat="identity")
+graficar
+```
+
+En la gráfica de barras se puede observar la cantidad de nucleótidos que tiene cada una de la variantes que se investigaron del SARS-CoV-2. 
+La variante Alpha está representada con el color rojo, la variante Beta con un color verde, la variante Delta con un color acua y finalmente de color morado
+la variante Gamma.
+En el eje "x" de la grafica se ubican las bases nitrogenadas (A, C, G, T) y en el eje "y" la cantidad de las mismas. 
+
+
+### Porcentaje de GC de cada variante
+
+```{R}
+porcentajeGC <- function(seq) {
+  secuencia <- count(seq[[1]], 1)
+  C <- secuencia[[2]]
+  G <- secuencia[[3]]
+  CG <- C + G
+  total <- length(seq[[1]])
+
+  porcentaje <- function(total, CG){
+    return(round(100*CG/total, 2))
+  }
+  print(paste0("GC: ", porcentaje(total, CG), "%"))
+}
+print("Alpha:")
+porcentajeGC(alpha)
+print("Beta:")
+porcentajeGC(beta)
+print("Delta:")
+porcentajeGC(delta)
+print("Gamma:")
+porcentajeGC(gamma)
+```
+
+### Secuencias contrasentido de cada variante.
+
+### Alpha:
+```{R}
+contrasentido <- function(seq) {
+  s <- comp(seq[[1]])
+  s <- str_to_upper(paste(s, collapse = ""))
+  return(s)
+}
+contrasentido(alpha)
+```
+
+### Beta:
+```{R}
+contrasentido(beta)
+```
+
+### Delta:
+```{R}
+contrasentido(delta)
+```
+
+### Gamma:
+```{R}
+contrasentido(gamma)
+```
